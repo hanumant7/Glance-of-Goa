@@ -1,0 +1,20 @@
+h1{font-family: 'Times New Roman', Times, serif;text-decoration: underline;font-style: italic;}
+h2{font-family: 'Times New Roman', Times, serif;text-decoration: underline;font-style: italic;}
+h3{font-family: 'Times New Roman', Times, serif;}
+#intro{text-align:justify;font-family: 'Times New Roman', Times, serif;font-size:20px;}
+#intro::first-letter{font-size:30px;}
+#note{text-decoration: wavy;}
+a:hover{text-decoration:underline;color:dodgerblue;}
+#info{text-align:justify;font-family: 'Times New Roman', Times, serif;font-size:20px;}
+table{font-family: 'Times New Roman', Times, serif;}
+img{text-align: right;}
+ol li{text-decoration: underline;font-family:'Times New Roman', Times, serif;}
+ul li{text-decoration: none;}
+.unavailablea{border-width: 5px;border-style: dotted; border-color: black;
+            text-align: justify; padding-top: 20px; padding-left: 20px;
+            padding-right: 20px; padding-bottom: 20px; margin-top: 20px;
+            margin-bottom: 20px; margin-left: 20px; margin-right: 20px;
+            text-align: center; font-size: larger; font-weight: bold;
+            }
+.unavailable a{color:rgb(0, 128, 255)}
+.unavailable a:hover{color: rgb(58, 58, 237);}
